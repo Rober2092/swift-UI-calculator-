@@ -13,8 +13,7 @@
 
   
 💻 Below is a screenshot of the application:
-  
-![swift-UI-calculator](calculator.PNG)
+<img src="calculator.png"/>
 
 
 ```
