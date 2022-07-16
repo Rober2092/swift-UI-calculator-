@@ -14,9 +14,8 @@
   
 💻 Below is a screenshot of the application:
   
-![pwa-budget-tracker](calculator.PNG)
+![swift-UI-calculato](calculator.PNG)
 
-## User Story
 
 ```
 
