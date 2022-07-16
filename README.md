@@ -14,7 +14,7 @@
   
 💻 Below is a screenshot of the application:
   
-![swift-UI-calculato](calculator.PNG)
+![swift-UI-calculator](calculator.PNG)
 
 
 ```
